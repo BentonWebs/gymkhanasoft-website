@@ -1,5 +1,7 @@
 {
   "name": "gymkhanasoft-website",
-  "pages_build_output_dir": ".",
-  "compatibility_date": "2026-07-26"
+  "compatibility_date": "2026-07-27",
+  "assets": {
+    "directory": "."
+  }
 }
